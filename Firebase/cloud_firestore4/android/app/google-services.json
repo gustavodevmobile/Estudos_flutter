@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062585058954",
+    "project_id": "cloud-firestore4-5be91",
+    "storage_bucket": "cloud-firestore4-5be91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062585058954:android:15d93328c0e5f60d61cf73",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firestore4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4-AC_DdUtBqEFw5MEGsKwbtwfnIy-Dq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+{
+  "journals": [
+    {
+      "id": "a8cd74a0-772f-11ef-a080-67cd27cb84cf",
+      "content": "nao sei pq esta dando esse erro!",
+      "created_at": "2024-09-10 09:04:09.912380",
+      "updated_at": "2024-09-10 09:04:09.912380"
+    },
+    {
+      "id": "a0d12a60-7731-11ef-af6d-b127eee52d97",
+      "content": "Problema resolvido!",
+      "created_at": "2024-09-14 06:20:42.545",
+      "updated_at": "2024-09-14 06:20:42.545"
+    },
+    {
+      "id": "2cf6fef0-7748-11ef-950a-79413b08a10d",
+      "content": "vamos fazer uma api real",
+      "created_at": "2024-09-14 11:48:47.194030",
+      "updated_at": "2024-09-14 11:48:47.194030"
+    },
+    {
+      "id": "79454c30-7748-11ef-9c11-3124dbea33c1",
+      "content": "teste",
+      "created_at": "2024-09-16 12:04:09.196251",
+      "updated_at": "2024-09-16 12:04:09.196251"
+    },
+    {
+      "id": "803851e0-7748-11ef-a4cf-d5637ecc6efd",
+      "content": "teste2",
+      "created_at": "2024-09-15 12:04:09.196251",
+      "updated_at": "2024-09-15 12:04:09.196251"
+    },
+    {
+      "id": "bdab9c70-7a69-11ef-ba9e-cf421fd525b6",
+      "content": "aprendedo o metodo put",
+      "created_at": "2024-09-18 11:39:36.090832",
+      "updated_at": "2024-09-18 11:39:36.090832"
+    },
+    {
+      "id": "d0c10480-7a69-11ef-a014-bd4a5cda7673",
+      "content": "tee",
+      "created_at": "2024-09-17 11:39:36.090832",
+      "updated_at": "2024-09-17 11:39:36.090832"
+    }
+  ]
+}
